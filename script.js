@@ -1,7 +1,7 @@
 import "./styles.css";
-import "./components/note-form.js";
-import "./components/note-item.js";
-import "./components/app-bar.js";
+import "./note-form.js";
+import "./note-item.js";
+import "./app-bar.js";
 import Swal from "sweetalert2";
 
 const API_URL = "https://notes-api.dicoding.dev/v2/notes";
